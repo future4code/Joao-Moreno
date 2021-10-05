@@ -72,7 +72,7 @@ console.log("Que é equivalente a", resultadohoras, "Horas")
 
 
 //Exercicio Nº4
-
+/*
 let primeiroNumero = prompt("Digite um Numero")
 let segundoNumero = prompt("Digite o Segundo Numero")
 
@@ -89,3 +89,4 @@ console.log("O primeiro numero é maior que segundo?", resultadoum)
 console.log("O primeiro numero é igual ao segundo?", resultadodois)
 console.log("O primeiro numero é divisível pelo segundo?", resultadotres)
 console.log("O segundo numero é divisível pelo primeiro?", resultadoquatro)
+*/
