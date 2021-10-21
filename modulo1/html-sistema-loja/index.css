@@ -4,6 +4,7 @@ h1{background-color: blueviolet;text-align:center ;}
 .botao{text-align: center;}
 body {
     background-color: rgb(212, 209, 209);
+    margin: 0;
   }
   a{
     background-color: rgb(182, 174, 255);
