@@ -1,0 +1,182 @@
+/** 
+  *
+  *  ESTILOS GERAIS 
+  *
+  **/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    background-color: #fe7e02;
+    padding: 10px 5px 10px 5px;
+    color: white;
+    text-align: center;
+}
+
+input {
+    height: 20px;
+    width: 500px;
+}
+
+button:focus {
+    color: white;
+}
+
+img {
+    width: 65px;
+}
+
+div>p:first-child {
+    display: inline;
+}
+
+div img {
+    background: rgb(255, 255, 255);
+}
+
+.botao-amarelo {
+    background:#fffb21;
+    font-family: arial;
+    font-size:14px;
+    font-weight:700;
+    text-transform: uppercase;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+    display:inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+
+
+.botao-amarelo:hover {
+    background:#8aff05;
+    box-shadow:0 5px 0 #bd520b;
+  
+}
+
+.container {
+    height: 500px;
+    text-align: center;
+}
+
+.icone {
+    height: 15px;
+}
+
+
+/** 
+  *
+  *  ESTILOS HOME 
+  *
+  **/
+
+#container-de-descricao {
+    background-color: #2274a5;
+    color: white;
+    text-align: center;
+    padding: 100px 650px;
+}
+
+#container-de-descricao>ol {
+    padding: 15px 0px;
+}
+
+#container-para-comprar {
+    background-color: #e7eb90;
+}
+
+#container-para-comprar>p {
+    color: #000000;
+    padding: 100px 0;
+    font-size: 60px;
+}
+
+
+/**
+  *
+  *  ESTILOS COMPRAR 
+  *
+  **/
+
+div:nth-child(2),
+div:last-child {
+    text-align: center;
+}
+
+table {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+}
+
+td button {
+    background-color: #000000;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    display:inline-block;
+    text-decoration: none;
+}
+
+td button:hover{
+    background-color: blue;
+}
+td button:active{
+    background-color: rgb(0, 0, 0);
+}
+
+.container-do-search {
+    margin-top: 20px;
+    height: 100px;
+}
+ 
+#comprar-button{
+    text-align: center;
+}
+#voltar-button{
+    text-align:center;
+    padding: 200px;
+}
+#back-button {
+    background-color: #000000;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    color: rgb(255, 0, 0);
+    cursor: pointer;
+    display:inline-block;
+    text-decoration: none;
+}
+
+#back-button:hover { 
+    background-color: #51ff00;
+}
+
+a{
+    margin:fixed;
+}
+
+.icone{
+    width: 18px;
+    transform: rotate(90deg);
+}
+ #barra{
+     border: none;
+     border-bottom: 1px solid black;
+ }
+ title{font-family: "Trebuchet MS", Verdana, sans-serif;}
+ h1{font-family: "Trebuchet MS", Verdana, sans-serif;}
+ h2{font-family: "Trebuchet MS", Verdana, sans-serif;}
+ h3{font-family: "Trebuchet MS", Verdana, sans-serif;}
+ li{font-family: "Trebuchet MS", Verdana, sans-serif;}
+ p{font-family: "Trebuchet MS", Verdana, sans-serif;}
+ td{font-family: "Trebuchet MS", Verdana, sans-serif;}
+
+
+
